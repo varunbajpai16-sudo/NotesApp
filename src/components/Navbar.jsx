@@ -25,12 +25,10 @@ function Handelclick(){
 </div>
 
       </div>
-
-      {/* CENTER SECTION */}
-<div className="flex items-center gap-2">
-  <form className="relative">
+{/* <div className="flex items-center gap-2">
+  <form className="relative"> */}
     {/* Search Icon */}
-    <svg
+    {/* <svg
         xmlns="http://www.w3.org/2000/svg"
         className="absolute left-3 top-1/2 -translate-y-1/2 h-5 w-5 text-gray-500"
         fill="none"
@@ -46,7 +44,7 @@ function Handelclick(){
       </svg>
     
 
-    {/* Input */}
+    Input 
 <input
   className={`min-w-[400px] rounded p-1.5 pl-10 focus:outline-none ${
     togglestate
@@ -55,10 +53,10 @@ function Handelclick(){
   }`}
   type="text"
   placeholder="Search notes..."
-/>
+/> 
 
   </form>
-</div>
+</div> */}
 
 
    {/* RIGHT SECTION */}
